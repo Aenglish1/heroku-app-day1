@@ -1,0 +1,25 @@
+{
+  "name": "heroku-app-day1",
+  "version": "0.0.1",
+  "description": "Heroku Server App Day 1 Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aenglish1/heroku-app-day1.git"
+  },
+  "keywords": [
+    "Server",
+    "Heroku",
+    "Day1",
+    "Homework"
+  ],
+  "author": "Aaron English",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aenglish1/heroku-app-day1/issues"
+  },
+  "homepage": "https://github.com/Aenglish1/heroku-app-day1#readme"
+}
